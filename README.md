@@ -5,7 +5,7 @@ Webapps Assignment on Pug.
 [Hosted at](https://fwb23mudhagoni.herokuapp.com/)
 
 
-Class Gas
+Class Petrol
 
 Petrol_type(string)
 quantity(number)
